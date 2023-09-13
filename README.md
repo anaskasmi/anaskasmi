@@ -59,7 +59,7 @@ fields_of_interests:
   ],
 currently_learning: ["Kubernetes", "React & Next Js", "Nuxt js", "Azure"]
 2024 Goals: ["Create 3+ Big projects (SAAS Ideas) and learn at least 5 new Technologies.", "Get certified as an AWS solution Architect "]
-extra: ["I have 2 beautifull cats, Oreo and Kaisa 😸😸 "]
+Extra: ["I have 2 beautiful cats, Oreo and Kaisa 😸😸 "]
 ```
   
 ---  
